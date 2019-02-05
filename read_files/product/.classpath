@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="src" path="src/test/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" exported="true"/>
+	<classpathentry kind="src" path="/my-lib" exported="true"/>
+	<classpathentry kind="lib" path="C:/eclipse oxygen/eclipse-jee-oxygen-3a-win32-x86_64/eclipse/unresolved dependency - junit junit 4.8.2" exported="true"/>
+</classpath>
