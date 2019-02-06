@@ -13,6 +13,7 @@ public class DemoApplicationTests {
 	public void contextLoads() {
 		System.out.println("Hii");
 		System.out.println("Helo frd demo application");
+		System.out.println("hi");
 	}
 
 }
