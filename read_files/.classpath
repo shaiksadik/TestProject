@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="src/main/java"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry exported="true" kind="con" path="org.springsource.ide.eclipse.gradle.classpathcontainer"/>
-	<classpathentry kind="lib" path="C:/Users/sshaik69/Documents/My Received Files/commons-collections4-4.2/commons-collections4-4.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/sshaik69/Documents/My Received Files/commons-collections4-4.2/commons-collections4-4.2-javadoc.jar"/>
 	<classpathentry kind="lib" path="C:/Users/sshaik69/Documents/My Received Files/commons-collections4-4.2/commons-collections4-4.2-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/sshaik69/Documents/My Received Files/commons-collections4-4.2/commons-collections4-4.2-tests.jar"/>
 	<classpathentry kind="lib" path="C:/Users/sshaik69/Documents/My Received Files/commons-collections4-4.2/commons-collections4-4.2-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sshaik69/Documents/My Received Files/commons-collections4-4.2/commons-collections4-4.2-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sshaik69/Documents/My Received Files/commons-collections4-4.2/commons-collections4-4.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="con" path="org.springsource.ide.eclipse.gradle.classpathcontainer"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
